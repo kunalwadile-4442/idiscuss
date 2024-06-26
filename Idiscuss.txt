@@ -1,0 +1,6 @@
+database name idiscusss
+2 table created...
+
+#60 =====  9min
+
+full text search using php
